@@ -1,0 +1,18 @@
+{
+  "name": "optimizely-playground",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "engines": {
+    "node": "6.9.1"
+  }, 
+  "description": "Web Site to test Optimizely X",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "jops",
+  "license": "MIT"
+}
